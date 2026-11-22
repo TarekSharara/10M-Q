@@ -1,0 +1,27 @@
+{
+  "name": "10m Qual",
+  "short_name": "10m Qual",
+  "description": "10m Air Rifle & Air Pistol Qualification Simulator",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#EEF2F1",
+  "theme_color": "#0E5E6F",
+  "icons": [
+    {
+      "src": "q10-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "q10-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
