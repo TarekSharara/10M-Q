@@ -1,6 +1,6 @@
 /* 10m Qual – offline service worker. Change VERSION after every update of index.html */
 const PREFIX = "q10-qual-";
-const VERSION = PREFIX + "v3";
+const VERSION = PREFIX + "v9";
 const CORE = ["./", "./index.html", "./manifest.webmanifest", "./q10-icon-180.png", "./q10-icon-192.png", "./q10-icon-512.png"];
 
 self.addEventListener("install", e => {
